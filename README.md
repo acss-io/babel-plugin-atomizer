@@ -14,7 +14,7 @@ loaders: [
         query: {
             presets: ['react'],
             plugins: [
-                [require('babel-plugin-atomizer'), { configPath: __dirname + '/atomizerConfigs.js' }]
+                ['babel-plugin-atomizer', { configPath: __dirname + '/atomizerConfigs.js' }]
             ]
         }
     }
