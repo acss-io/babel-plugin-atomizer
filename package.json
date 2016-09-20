@@ -1,0 +1,14 @@
+{
+  "name": "babel-plugin-atomizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atomic CSS <tom76kimo@gmail.com> (https://github.com/acss-io)",
+  "license": "MIT",
+  "dependencies": {
+    "atomizer": "^3.3.6"
+  }
+}
