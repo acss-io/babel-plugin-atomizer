@@ -23,7 +23,7 @@ loaders: [
 
 Example of `atomizerConfigs.js`:
 
-```javscript
+```javascript
 module.exports = {
     cssDest: './main.css',
     options: {
